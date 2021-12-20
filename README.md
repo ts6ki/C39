@@ -1,2 +1,3 @@
-# CarRacingGame1.0
-Car Racing Game Stage 1.0
+# C39
+
+Added a reset button and player markings
